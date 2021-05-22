@@ -1,0 +1,55 @@
+Message-ID: <0da1e917236d3a0cbc494671ec53f8d4@zadaniye>
+Date: Wed, 19 May 2021 12:08:35 +0300
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: puzzle-kmv@yandex.ru
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1621415315_1cb39cc09828d5e4700221845377962b_=_"
+
+
+--_=_swift_1621415315_1cb39cc09828d5e4700221845377962b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello admin,
+
+Follow the link below to verify your email:
+
+http:=
+//zadaniye/frontend/web/index.php?r=3Dsite%2Fverify-email&token=3DZUIynYkju=
+wpZMFLKcmbthwSsl2g2Ngdv_1621415315
+
+--_=_swift_1621415315_1cb39cc09828d5e4700221845377962b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello admin,</p>
+
+    <p>Foll=
+ow the link below to verify your email:</p>
+
+    <p><a href=3D"http://z=
+adaniye/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3DZUIynYkj=
+uwpZMFLKcmbthwSsl2g2Ngdv_1621415315">http://zadaniye/frontend/web/index.php=
+?r=3Dsite%2Fverify-email&amp;token=3DZUIynYkjuwpZMFLKcmbthwSsl2g2Ngdv_16214=
+15315</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_1621415315_1cb39cc09828d5e4700221845377962b_=_--
